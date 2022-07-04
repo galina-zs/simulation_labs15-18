@@ -1,0 +1,6 @@
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.Form1.resources
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.Properties.Resources.resources
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\Simple stream.csproj.GenerateResource.cache
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\Simple stream.csproj.CoreCompileInputs.cache
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.exe
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.pdb

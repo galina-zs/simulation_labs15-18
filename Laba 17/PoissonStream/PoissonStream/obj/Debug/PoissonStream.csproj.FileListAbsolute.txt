@@ -1,0 +1,40 @@
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\bin\Debug\PoissonStream.exe.config
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\bin\Debug\PoissonStream.exe
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\bin\Debug\PoissonStream.pdb
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\bin\Debug\MathNet.Numerics.dll
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\bin\Debug\MathNet.Numerics.xml
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csprojAssemblyReference.cache
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.Form1.resources
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.Properties.Resources.resources
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.GenerateResource.cache
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.CoreCompileInputs.cache
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.CopyComplete
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.exe
+C:\Users\Elza\Desktop\pizDIM17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.pdb
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\bin\Debug\PoissonStream.exe.config
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\bin\Debug\PoissonStream.exe
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\bin\Debug\PoissonStream.pdb
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\bin\Debug\MathNet.Numerics.dll
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\bin\Debug\MathNet.Numerics.xml
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.csprojAssemblyReference.cache
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.Form1.resources
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.Properties.Resources.resources
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.csproj.GenerateResource.cache
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.csproj.CoreCompileInputs.cache
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.csproj.CopyComplete
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.exe
+C:\Users\Elza\Desktop\pizDIM17\SimpleStream\PoissonStream\obj\Debug\PoissonStream.pdb
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\bin\Debug\PoissonStream.exe.config
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\bin\Debug\PoissonStream.exe
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\bin\Debug\PoissonStream.pdb
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\bin\Debug\MathNet.Numerics.dll
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\bin\Debug\MathNet.Numerics.xml
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.AssemblyReference.cache
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.SuggestedBindingRedirects.cache
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.Form1.resources
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.Properties.Resources.resources
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.GenerateResource.cache
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.CoreCompileInputs.cache
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.csproj.CopyComplete
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.exe
+C:\Users\zabga\source\repos\Laba 17\PoissonStream\PoissonStream\obj\Debug\PoissonStream.pdb
